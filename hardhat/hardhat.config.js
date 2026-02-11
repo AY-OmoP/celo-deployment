@@ -20,8 +20,8 @@ module.exports = {
                 network: "celoSepolia",
                 chainId: 11142220,
                 urls: {
-                    apiURL: "https://celo-sepolia.blockscout.com/api",
-                    browserURL: "https://celo-sepolia.blockscout.com",
+                    apiURL: "https://api-sepolia.celoscan.io/api",
+                    browserURL: "https://sepolia.celoscan.io",
                 },
             },
         ],

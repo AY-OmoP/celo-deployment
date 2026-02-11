@@ -7,4 +7,4 @@ libs = ["lib"]
 celo_sepolia = "https://forno.celo-sepolia.celo-testnet.org"
 
 [etherscan]
-celo_sepolia = { key = "${ETHERSCAN_API_KEY}", url = "https://celo-sepolia.blockscout.com/api" }
+celo_sepolia = { key = "${ETHERSCAN_API_KEY}", url = "https://api-sepolia.celoscan.io/api" }
